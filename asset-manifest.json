@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/FRONTEND-DEGUSTO/static/css/main.7f35bb34.chunk.css",
-    "main.js": "/FRONTEND-DEGUSTO/static/js/main.6f8dbc3f.chunk.js",
-    "main.js.map": "/FRONTEND-DEGUSTO/static/js/main.6f8dbc3f.chunk.js.map",
+    "main.css": "/FRONTEND-DEGUSTO/static/css/main.98055aa5.chunk.css",
+    "main.js": "/FRONTEND-DEGUSTO/static/js/main.382493c4.chunk.js",
+    "main.js.map": "/FRONTEND-DEGUSTO/static/js/main.382493c4.chunk.js.map",
     "runtime~main.js": "/FRONTEND-DEGUSTO/static/js/runtime~main.0dd02218.js",
     "runtime~main.js.map": "/FRONTEND-DEGUSTO/static/js/runtime~main.0dd02218.js.map",
-    "static/js/2.ae3e7ee8.chunk.js": "/FRONTEND-DEGUSTO/static/js/2.ae3e7ee8.chunk.js",
-    "static/js/2.ae3e7ee8.chunk.js.map": "/FRONTEND-DEGUSTO/static/js/2.ae3e7ee8.chunk.js.map",
+    "static/js/2.b306ce3b.chunk.js": "/FRONTEND-DEGUSTO/static/js/2.b306ce3b.chunk.js",
+    "static/js/2.b306ce3b.chunk.js.map": "/FRONTEND-DEGUSTO/static/js/2.b306ce3b.chunk.js.map",
     "static/js/3.cf2aeaea.chunk.js": "/FRONTEND-DEGUSTO/static/js/3.cf2aeaea.chunk.js",
     "static/js/3.cf2aeaea.chunk.js.map": "/FRONTEND-DEGUSTO/static/js/3.cf2aeaea.chunk.js.map",
     "index.html": "/FRONTEND-DEGUSTO/index.html",
-    "precache-manifest.f5f0eef12d7faa6f662c8b46a8f86055.js": "/FRONTEND-DEGUSTO/precache-manifest.f5f0eef12d7faa6f662c8b46a8f86055.js",
+    "precache-manifest.bfd8a7827d78e22b07a7a5d6d4fd6329.js": "/FRONTEND-DEGUSTO/precache-manifest.bfd8a7827d78e22b07a7a5d6d4fd6329.js",
     "service-worker.js": "/FRONTEND-DEGUSTO/service-worker.js",
-    "static/css/main.7f35bb34.chunk.css.map": "/FRONTEND-DEGUSTO/static/css/main.7f35bb34.chunk.css.map"
+    "static/css/main.98055aa5.chunk.css.map": "/FRONTEND-DEGUSTO/static/css/main.98055aa5.chunk.css.map"
   }
 }
