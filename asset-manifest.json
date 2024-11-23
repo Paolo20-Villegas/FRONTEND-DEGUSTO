@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FRONTEND-DEGUSTO/static/css/main.c3b9bf65.chunk.css",
+    "main.css": "/FRONTEND-DEGUSTO/static/css/main.13e7f24f.chunk.css",
     "main.js": "/FRONTEND-DEGUSTO/static/js/main.a7672c4b.chunk.js",
     "main.js.map": "/FRONTEND-DEGUSTO/static/js/main.a7672c4b.chunk.js.map",
     "runtime~main.js": "/FRONTEND-DEGUSTO/static/js/runtime~main.00a8c010.js",
@@ -10,8 +10,8 @@
     "static/js/3.5a11cc32.chunk.js": "/FRONTEND-DEGUSTO/static/js/3.5a11cc32.chunk.js",
     "static/js/3.5a11cc32.chunk.js.map": "/FRONTEND-DEGUSTO/static/js/3.5a11cc32.chunk.js.map",
     "index.html": "/FRONTEND-DEGUSTO/index.html",
-    "precache-manifest.0f47fe8170609843f87d90d5294ab3a1.js": "/FRONTEND-DEGUSTO/precache-manifest.0f47fe8170609843f87d90d5294ab3a1.js",
+    "precache-manifest.73f9bcc6668ede67c5924c29a10b406e.js": "/FRONTEND-DEGUSTO/precache-manifest.73f9bcc6668ede67c5924c29a10b406e.js",
     "service-worker.js": "/FRONTEND-DEGUSTO/service-worker.js",
-    "static/css/main.c3b9bf65.chunk.css.map": "/FRONTEND-DEGUSTO/static/css/main.c3b9bf65.chunk.css.map"
+    "static/css/main.13e7f24f.chunk.css.map": "/FRONTEND-DEGUSTO/static/css/main.13e7f24f.chunk.css.map"
   }
 }
