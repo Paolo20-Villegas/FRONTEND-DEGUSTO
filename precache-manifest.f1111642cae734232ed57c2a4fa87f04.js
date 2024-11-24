@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54a94154b847fbbcef2c7ecd7a788a26",
+    "revision": "da1990cda825dfc9a0a8000abf8bfe22",
     "url": "/FRONTEND-DEGUSTO/index.html"
   },
   {
-    "revision": "b90b1b6b59d1b8aa66db",
+    "revision": "5fe8ede53cd828abbbc2",
     "url": "/FRONTEND-DEGUSTO/static/css/main.5c688ac3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FRONTEND-DEGUSTO/static/js/3.cf2aeaea.chunk.js"
   },
   {
-    "revision": "b90b1b6b59d1b8aa66db",
-    "url": "/FRONTEND-DEGUSTO/static/js/main.0b8b5b24.chunk.js"
+    "revision": "5fe8ede53cd828abbbc2",
+    "url": "/FRONTEND-DEGUSTO/static/js/main.dbecfd97.chunk.js"
   },
   {
     "revision": "7da220e967d480e90be6",
