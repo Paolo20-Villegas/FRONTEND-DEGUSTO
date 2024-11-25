@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/FRONTEND-DEGUSTO/static/css/main.1a098a62.chunk.css",
-    "main.js": "/FRONTEND-DEGUSTO/static/js/main.2886ec80.chunk.js",
-    "main.js.map": "/FRONTEND-DEGUSTO/static/js/main.2886ec80.chunk.js.map",
-    "runtime~main.js": "/FRONTEND-DEGUSTO/static/js/runtime~main.0dd02218.js",
-    "runtime~main.js.map": "/FRONTEND-DEGUSTO/static/js/runtime~main.0dd02218.js.map",
-    "static/js/2.b306ce3b.chunk.js": "/FRONTEND-DEGUSTO/static/js/2.b306ce3b.chunk.js",
-    "static/js/2.b306ce3b.chunk.js.map": "/FRONTEND-DEGUSTO/static/js/2.b306ce3b.chunk.js.map",
-    "static/js/3.cf2aeaea.chunk.js": "/FRONTEND-DEGUSTO/static/js/3.cf2aeaea.chunk.js",
-    "static/js/3.cf2aeaea.chunk.js.map": "/FRONTEND-DEGUSTO/static/js/3.cf2aeaea.chunk.js.map",
+    "main.css": "/FRONTEND-DEGUSTO/static/css/main.dfaf6808.chunk.css",
+    "main.js": "/FRONTEND-DEGUSTO/static/js/main.092bea9a.chunk.js",
+    "main.js.map": "/FRONTEND-DEGUSTO/static/js/main.092bea9a.chunk.js.map",
+    "runtime~main.js": "/FRONTEND-DEGUSTO/static/js/runtime~main.1c4d856b.js",
+    "runtime~main.js.map": "/FRONTEND-DEGUSTO/static/js/runtime~main.1c4d856b.js.map",
+    "static/js/2.87480005.chunk.js": "/FRONTEND-DEGUSTO/static/js/2.87480005.chunk.js",
+    "static/js/2.87480005.chunk.js.map": "/FRONTEND-DEGUSTO/static/js/2.87480005.chunk.js.map",
+    "static/js/3.2ee60a5f.chunk.js": "/FRONTEND-DEGUSTO/static/js/3.2ee60a5f.chunk.js",
+    "static/js/3.2ee60a5f.chunk.js.map": "/FRONTEND-DEGUSTO/static/js/3.2ee60a5f.chunk.js.map",
     "index.html": "/FRONTEND-DEGUSTO/index.html",
-    "precache-manifest.89e26e13d84791022962daf14cac8ed7.js": "/FRONTEND-DEGUSTO/precache-manifest.89e26e13d84791022962daf14cac8ed7.js",
+    "precache-manifest.b0d6ec31aeba961079760b6077f25540.js": "/FRONTEND-DEGUSTO/precache-manifest.b0d6ec31aeba961079760b6077f25540.js",
     "service-worker.js": "/FRONTEND-DEGUSTO/service-worker.js",
-    "static/css/main.1a098a62.chunk.css.map": "/FRONTEND-DEGUSTO/static/css/main.1a098a62.chunk.css.map"
+    "static/css/main.dfaf6808.chunk.css.map": "/FRONTEND-DEGUSTO/static/css/main.dfaf6808.chunk.css.map"
   }
 }
